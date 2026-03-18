@@ -68,10 +68,6 @@ print(f"Predicted value: {new_prediction[0]}")
 data.head()
 ```
 ## Output:
-![linear regression using gradient descent](sam.png)
-```
-Predicted value: 193075.97426510364
-```
 <img width="1124" height="514" alt="image" src="https://github.com/user-attachments/assets/f07a01df-e455-4681-942b-34ed5b4e224d" />
 
 
