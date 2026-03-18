@@ -66,7 +66,6 @@ new_prediction = np.dot(np.append(1, new_data_scaled), theta)
 
 print(f"Predicted value: {new_prediction[0]}")
 data.head()
-
 ```
 ## Output:
 ![linear regression using gradient descent](sam.png)
